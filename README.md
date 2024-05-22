@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-##### I'am a Brazilian student of system analysis and development and professional video editor.
+##### I'm a Brazilian student of system analysis and development and professional video editor.
 
 🚀 Working as an autonomous **video editor**  
 💻 I’m currently studying system analysis and development  
